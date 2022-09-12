@@ -19,3 +19,26 @@ I constantly work on myself and learn something new that helps me develop and go
 - Boststrap
 - JavaScript (Basic)
 - Git
+
+## Code Example
+
+```
+function isDivisible(n, x, y) {
+let z = (n%x===0) && (n%y===0)
+return z
+}
+```
+
+## Experience
+
+- Education
+  - Donetsk National Technical University, developer and tester of information managers, computerized systems and technologies
+  - Donetsk Polytechnic College, Programmer technician
+- Courses:
+  - Stepick, HTML,CSS, first step
+  - Code-basics.com JS for begginer
+  - and many courses on YouTube
+
+## My English
+
+A2 (I used to learn English, but the lack of practice made itself felt)
